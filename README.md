@@ -22,10 +22,3 @@ This is a simple voice assistant built with Python that listens to your speech, 
 - [pyttsx3](https://pypi.org/project/pyttsx3/) (for offline TTS)
 
 ---
-
-## 📦 Installation
-
-1. **Clone the repository** (or just copy the Python file):
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
-   cd voice-assistant
